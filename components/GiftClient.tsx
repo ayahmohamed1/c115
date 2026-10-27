@@ -868,7 +868,7 @@ export default function GiftClient({ data }: Props) {
             <footer style={{ textAlign: 'center', padding: '40px 15px 110px 15px', position: 'relative', zIndex: 20 }}>
               <div style={{ fontSize: '1.8rem', marginBottom: '8px' }}>💖</div>
               <p style={{ color: '#ffffff', fontStyle: 'italic', fontSize: '1.1rem', fontWeight: 600 }}>
-                Made with all my love for you, {data.name || 'yahya'} 💖
+                Made with all my love for you, {data.name || 'habiby'} 💖
               </p>
               <p style={{ fontSize: '0.8rem', color: '#ff80ab', marginTop: '6px', letterSpacing: '0.2em' }}>
                 FOREVER & ALWAYS
