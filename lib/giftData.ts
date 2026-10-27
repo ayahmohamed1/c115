@@ -31,7 +31,6 @@ Happy birthdayyyy❤️❤️❤️😘
 
 const giftData: Record<string, GiftData> = {
   habiby: defaultGift,
-  yahya: defaultGift,
   aya: defaultGift,
 };
 
